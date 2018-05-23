@@ -3,6 +3,6 @@
     "short_name": "SiteNameExample",
     "start_url": "/",
     "display": "standalone",
-    "gcm_sender_id": 1111111,
+    "gcm_sender_id": "1111111",
     "gcm_user_visible_only": true
 }
